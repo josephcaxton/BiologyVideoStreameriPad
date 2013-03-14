@@ -87,13 +87,13 @@
     
     LoginTitle = @"";
     
-    TVHeaderImage = [UIImage imageNamed:@"TV_chemistry_header.png"];
+    TVHeaderImage = [UIImage imageNamed:@"TV_biology_header.png"];
     TVHeaderImageView = [[UIImageView alloc] initWithImage:TVHeaderImage];
     TVHeaderImageView.frame = CGRectMake(130 ,30, 495, 223);
     [FirstView addSubview:TVHeaderImageView];
     
     
-    Image = [UIImage imageNamed:@"hero_chemistry.png"];
+    Image = [UIImage imageNamed:@"hero_biology.png"];
     ImageView = [[UIImageView alloc] initWithImage:Image];
     // ImageView.frame = CGRectMake(0 ,0, 540, 950);
     ImageView.frame = CGRectMake(60 ,350, 640, 190);
