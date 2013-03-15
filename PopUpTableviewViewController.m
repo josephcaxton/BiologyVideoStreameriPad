@@ -308,7 +308,7 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
         MFMailComposeViewController *SendMailcontroller = [[MFMailComposeViewController alloc]init];
         SendMailcontroller.mailComposeDelegate = self;
         //[SendMailcontroller setToRecipients:SendTo];
-        [SendMailcontroller setSubject:@"Learn and revise GCSE Chemistry on the go - Chemistry App"];
+        [SendMailcontroller setSubject:@"Learn and revise GCSE Biology on the go - Biology App"];
         
         [SendMailcontroller setMessageBody:[NSString stringWithFormat:@"Checkout the FREE LearnersCloud Video App loaded with quality revision videos. To download this App for iPad <a href=http://itunes.apple.com/us/app/gcse-chemistry-videos./id554591114?ls=1&mt=8> click here </a>. For iPhone <a href=http://itunes.apple.com/us/app/gcse-chemistry-videos/id555317767?ls=1&mt=8> click here</a>. Or search LearnersCloud in your device’s App store. For loads more: www.Learnerscloud.com"] isHTML:YES];
         [self presentModalViewController:SendMailcontroller animated:YES];
@@ -350,9 +350,9 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
         
         NSUserDefaults *prefs = [NSUserDefaults standardUserDefaults];
          // Give user one free video.
-            if(![prefs objectForKey:@"AddOneFreeChemistry"]){
+            if(![prefs objectForKey:@"AddOneFreeBiology"]){
         
-                [prefs setObject:@"1" forKey:@"AddOneFreeChemistry"];
+                [prefs setObject:@"1" forKey:@"AddOneFreeBiology"];
                 [prefs synchronize];
     
                 }
@@ -369,7 +369,7 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
 
 -(void)ConnectToFaceBook {
     
-    facebook = [[Facebook alloc] initWithAppId:@"345199798900072" andDelegate:self];
+    facebook = [[Facebook alloc] initWithAppId:@"599388710090517" andDelegate:self];
     
     //Save a pointer to this object for return from facebook
      AppDelegate *appDelegate = (AppDelegate *)[UIApplication sharedApplication].delegate;
@@ -389,7 +389,7 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
     }
     
     NSMutableDictionary* params = [NSMutableDictionary dictionaryWithObjectsAndKeys:
-                                   @"I’ve just started using a new GCSE Chemistry videos App! Hundreds of quality Chemistry videos. You should check it out, or search LearnersCloud in your device’s App store.",  @"message",
+                                   @"I’ve just started using a new GCSE Biology videos App! Hundreds of quality Biology videos. You should check it out, or search LearnersCloud in your device’s App store.",  @"message",
                                    nil];
     
     [facebook dialog:@"apprequests"
@@ -417,7 +417,7 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
 
 - (void) logoutButtonClicked:(id)sender {
     
-    facebook = [[Facebook alloc] initWithAppId:@"345199798900072" andDelegate:self];
+    facebook = [[Facebook alloc] initWithAppId:@"599388710090517" andDelegate:self];
     //Save a pointer to this object for return from facebook
     AppDelegate *appDelegate = (AppDelegate *)[UIApplication sharedApplication].delegate;
     appDelegate.m_facebook = facebook;
@@ -462,7 +462,7 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
     if (![[GANTracker sharedTracker] trackEvent:@"Shared via facebook"
                                          action:@"Facebook shared"
                                           label:@"Facebook shared"
-                                          value:69
+                                          value:1
                                       withError:&error]) {
         NSLog(@"error in trackEvent");
     }
@@ -470,10 +470,10 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
    
     NSUserDefaults *prefs = [NSUserDefaults standardUserDefaults];
     // Give user one free video.
-    if(![prefs objectForKey:@"AddOneFreeChemistry"]){
+    if(![prefs objectForKey:@"AddOneFreeBiology"]){
         
         
-        [prefs setObject:@"1" forKey:@"AddOneFreeChemistry"];
+        [prefs setObject:@"1" forKey:@"AddOneFreeBiology"];
         [prefs synchronize];
         
     }
@@ -502,7 +502,7 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
         NSString *UrlString = @"http://itunes.apple.com/us/app/gcse-chemistry-videos./id554591114?ls=1&mt=8";
         
         TWTweetComposeViewController *tweetSheet = [[TWTweetComposeViewController alloc] init];
-        [tweetSheet setInitialText:@"Checkout @LearnersCloud #GCSE Chemistry video app. Learn and revise Chemistry on the go."];
+        [tweetSheet setInitialText:@"Checkout @LearnersCloud #GCSE Biology video app. Learn and revise Biology on the go."];
         [tweetSheet addImage:[UIImage imageNamed:@"Icon-72.png"]];
         [tweetSheet addURL:[NSURL URLWithString:UrlString]];
         
@@ -528,9 +528,9 @@ self.contentSizeForViewInPopover = CGSizeMake(108,400);
 
                     
                     // Give user one free video.
-                    if(![prefs objectForKey:@"AddOneFreeChemistry"]){
+                    if(![prefs objectForKey:@"AddOneFreeBiology"]){
                         
-                        [prefs setObject:@"1" forKey:@"AddOneFreeChemistry"];
+                        [prefs setObject:@"1" forKey:@"AddOneFreeBiology"];
                         [prefs synchronize];
                         
                     }

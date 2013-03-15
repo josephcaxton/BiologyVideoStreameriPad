@@ -18,7 +18,7 @@
 
 // Dispatch period in seconds
 static const NSInteger kGANDispatchPeriodSec = 10;
-static NSString* const kAnalyticsAccountId = @"UA-34210077-1";
+static NSString* const kAnalyticsAccountId = @"UA-39286283-1";
 
 @implementation AppDelegate
 
@@ -568,10 +568,10 @@ static NSString* const kAnalyticsAccountId = @"UA-34210077-1";
     [[NSUserDefaults standardUserDefaults] synchronize];
     [[GANTracker sharedTracker] stopTracker];
     
-    AccessAll = FALSE;
+    /* AccessAll = FALSE;
     if (UserEmail) {
         UserEmail = nil;
-    }
+    } */
 }
 
 - (void)applicationWillEnterForeground:(UIApplication *)application

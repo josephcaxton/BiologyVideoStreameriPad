@@ -209,7 +209,7 @@
 
 -(void)RecordStatusToLearnersCloud:(BOOL)isStarting{
     
-    // This will send a record to the users account at learnerscloud to log when the user start of finished watching video
+    // This will send a record to the users account at learnerscloud to log when the user start or finished watching video
     
     AppDelegate *appDelegate = (AppDelegate *)[UIApplication sharedApplication].delegate;
     NSString *domainURL = appDelegate.DomainName;
@@ -239,7 +239,7 @@
     
     //NSLog(@"%@",[Mutabletime stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding]);
     
-    NSString *AppId = @"64";   // 64 means this is Chemistry
+    NSString *AppId = @"67";   // 67 means this is Biology
     NSString *Starting = isStarting ? @"True" : @"False";
     NSString *ClipURN = self.VideoFileName;
     

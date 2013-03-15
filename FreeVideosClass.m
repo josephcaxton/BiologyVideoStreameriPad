@@ -361,7 +361,7 @@
         }
 
         
-        obj.ProductID = @"ChemistryiPad";
+        obj.ProductID = @"BiologyiPad";
         //NSLog(@"Product is: %@",obj.ProductID);
        /* for (int i = 0; i < ProductsSubscibedTo.count; i++) {
             
@@ -538,7 +538,7 @@
     else if ([obj SociallyFree] == YES){
         // Have you shared if so view video
         NSUserDefaults *prefs = [NSUserDefaults standardUserDefaults];
-        if([[prefs objectForKey:@"AddOneFreeChemistry"] isEqualToString:@"1"]){
+        if([[prefs objectForKey:@"AddOneFreeBiology"] isEqualToString:@"1"]){
             
             VideoPlayer *VP1 = [[VideoPlayer alloc] initWithNibName:nil bundle:nil];
             VP1.FreeView = self;
@@ -672,7 +672,7 @@
         MFMailComposeViewController *SendMailcontroller = [[MFMailComposeViewController alloc]init];
         SendMailcontroller.mailComposeDelegate = self;
         [SendMailcontroller setToRecipients:SendTo];
-        [SendMailcontroller setSubject:[NSString stringWithFormat:@"%@ Chemistry video streaming iPad",DeviceID]];
+        [SendMailcontroller setSubject:[NSString stringWithFormat:@"%@ Biology video streaming iPad",DeviceID]];
         
         [SendMailcontroller setMessageBody:[NSString stringWithFormat:@"Add message here "] isHTML:NO];
         [self presentModalViewController:SendMailcontroller animated:YES];

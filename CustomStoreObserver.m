@@ -171,29 +171,29 @@
     // Only 1 month to 1 Year subscription supported
     
     
-    if ([[theProductID lowercaseString] isEqualToString:@"Biologyipad1month"] ){
+    if ([[theProductID lowercaseString] isEqualToString:@"biologyipad1month"] ){
         
         return @"31";
         
     }
     
-    else if ([[theProductID lowercaseString] isEqualToString:@"Biologyipad3months"] ){
+    else if ([[theProductID lowercaseString] isEqualToString:@"biologyipad3months"] ){
         
         return @"93";
         
     }
-    else if ([[theProductID lowercaseString] isEqualToString:@"Biologyipad6months"] ){
+    else if ([[theProductID lowercaseString] isEqualToString:@"biologyipad6months"] ){
         
         return @"186";
         
     }
     
-    else if ([[theProductID lowercaseString] isEqualToString:@"Biologyipad9months"] ){
+    else if ([[theProductID lowercaseString] isEqualToString:@"biologyipad9months"] ){
         
         return @"279";
         
     }
-    else if ([[theProductID lowercaseString] isEqualToString:@"Biologyipad12months"] ){
+    else if ([[theProductID lowercaseString] isEqualToString:@"biologyipad12months"] ){
         
         return @"372";
         
@@ -412,7 +412,7 @@
     
     NSURL *url = [NSURL URLWithString:queryString];
     NSMutableURLRequest *req = [NSMutableURLRequest requestWithURL:url];
-    VerificationAppID = @"6"; //Biology iPad
+    VerificationAppID = @"11"; //Biology iPad
     
         NSString *FullString = [NSString stringWithFormat:@"productIdentifier=%@&DeviceID=%@&days=%@&transactionIdentifier=%@&B64receipt=%@&email=%@&password=%@&AppID=%@",FinalProductID,MyDeviceId,SubscriptionInDays,TransactionID,EncodedReceipt,EmailAddress,Password,VerificationAppID];
         
