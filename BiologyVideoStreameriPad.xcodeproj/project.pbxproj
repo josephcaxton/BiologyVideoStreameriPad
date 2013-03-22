@@ -153,10 +153,12 @@
 		7CDD3BB716F1CF0A00114232 /* 73.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3BAF16F1CEFF00114232 /* 73.png */; };
 		7CDD3BB816F1CF0A00114232 /* 74.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3BB016F1CF0200114232 /* 74.png */; };
 		7CDD3BB916F1CF0A00114232 /* 75.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3BB116F1CF0500114232 /* 75.png */; };
+		7CEA7D1816FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7CEA7D1616FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf */; };
+		7CEA7D1916FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7CEA7D1716FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7CDD3A2B16F07AC000114232 /* BiologyVideoStreameriPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BiologyVideoStreameriPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7CDD3A2B16F07AC000114232 /* GCSE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCSE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CDD3A2E16F07AC000114232 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		7CDD3A3016F07AC000114232 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7CDD3A3216F07AC000114232 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -341,6 +343,8 @@
 		7CDD3BAF16F1CEFF00114232 /* 73.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 73.png; sourceTree = "<group>"; };
 		7CDD3BB016F1CF0200114232 /* 74.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 74.png; sourceTree = "<group>"; };
 		7CDD3BB116F1CF0500114232 /* 75.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 75.png; sourceTree = "<group>"; };
+		7CEA7D1616FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = LearnersCloudTermsonapps.pdf; sourceTree = "<group>"; };
+		7CEA7D1716FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = HowtouseVideoStreamer.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -388,7 +392,7 @@
 		7CDD3A2C16F07AC000114232 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7CDD3A2B16F07AC000114232 /* BiologyVideoStreameriPad.app */,
+				7CDD3A2B16F07AC000114232 /* GCSE.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -621,6 +625,8 @@
 				7CDD3BAF16F1CEFF00114232 /* 73.png */,
 				7CDD3BB016F1CF0200114232 /* 74.png */,
 				7CDD3BB116F1CF0500114232 /* 75.png */,
+				7CEA7D1616FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf */,
+				7CEA7D1716FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf */,
 			);
 			name = VideoImages;
 			sourceTree = "<group>";
@@ -680,7 +686,7 @@
 			);
 			name = BiologyVideoStreameriPad;
 			productName = BiologyVideoStreameriPad;
-			productReference = 7CDD3A2B16F07AC000114232 /* BiologyVideoStreameriPad.app */;
+			productReference = 7CDD3A2B16F07AC000114232 /* GCSE.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -825,6 +831,8 @@
 				7CDD3BB716F1CF0A00114232 /* 73.png in Resources */,
 				7CDD3BB816F1CF0A00114232 /* 74.png in Resources */,
 				7CDD3BB916F1CF0A00114232 /* 75.png in Resources */,
+				7CEA7D1816FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf in Resources */,
+				7CEA7D1916FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -944,7 +952,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
 				);
-				PRODUCT_NAME = BiologyVideoStreameriPad;
+				PRODUCT_NAME = GCSE;
 				PROVISIONING_PROFILE = "";
 				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
@@ -964,7 +972,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
 				);
-				PRODUCT_NAME = BiologyVideoStreameriPad;
+				PRODUCT_NAME = GCSE;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				VALID_ARCHS = armv7;
