@@ -37,23 +37,19 @@
     
 	
 	// Add items to the array this is hardcoded for now .. may need to be migrated to the database
-	[listofItems addObject:@"GCSE Chemistry WJEC Examination Coverage"];
-    [listofItemsFileNames addObject:@"GCSE-Chemistry-WJEC-Examination-Coverage"];
+	[listofItems addObject:@"GCSE Biology AQA Examination Coverage"];
+    [listofItemsFileNames addObject:@"GCSE-Biology-Exam-Board-AQA"];
     
-    [listofItems addObject:@"GCSE Chemistry OCR Gateway B Examination Coverage"];
-    [listofItemsFileNames addObject:@"GCSE-Chemistry-OCR-Gateway-B-Examination-Coverage"];
+    [listofItems addObject:@"GCSE Biology Edexcel Examination Coverage"];
+    [listofItemsFileNames addObject:@"GCSE-Biology-Exam-Board-Edexcel"];
     
-    [listofItems addObject:@"GCSE Chemistry OCR 21st Century A Examination Coverage"];
-    [listofItemsFileNames addObject:@"GCSE-Chemistry-OCR-21st-Century-A-Examination-Coverage"];
+    [listofItems addObject:@"GCSE Biology OCR 21st Century Examination Coverage"];
+    [listofItemsFileNames addObject:@"GCSE-Biology-Exam-Board-OCR-21st-Century"];
     
-    [listofItems addObject:@"GCSE Chemistry Edexcel Examination Coverage"];
-    [listofItemsFileNames addObject:@"GCSE-Chemistry-Edexcel-Examination-Coverage"];
+    [listofItems addObject:@"GCSE Biology OCR Gateway"];
+    [listofItemsFileNames addObject:@"GCSE-Biology-Exam-Board-OCR-Gateway"];
     
-    [listofItems addObject:@"GCSE Chemistry CCEA Examination Coverage"];
-    [listofItemsFileNames addObject:@"GCSE-Chemistry-CCEA-Examination-Coverage"];
-    
-    [listofItems addObject:@"GCSE Chemistry AQA Examination Coverage"];
-    [listofItemsFileNames addObject:@"GCSE-Chemistry-AQA-Examination-Coverage"];
+
     
     FirstViewframe = CGRectMake(0 ,0, SCREEN_WIDTH, SCREEN_HEIGHT);
     self.FirstTable = [[UITableView alloc] initWithFrame:FirstViewframe style:UITableViewStyleGrouped];

@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C2BECF317009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-Gateway.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECEF17009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-Gateway.pdf */; };
+		7C2BECF417009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECF017009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf */; };
+		7C2BECF517009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECF117009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf */; };
+		7C2BECF617009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECF217009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf */; };
 		7CDD3A2F16F07AC000114232 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CDD3A2E16F07AC000114232 /* UIKit.framework */; };
 		7CDD3A3116F07AC000114232 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CDD3A3016F07AC000114232 /* Foundation.framework */; };
 		7CDD3A3316F07AC000114232 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CDD3A3216F07AC000114232 /* CoreGraphics.framework */; };
@@ -158,6 +162,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C2BECEF17009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-Gateway.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-OCR-Gateway.pdf"; sourceTree = "<group>"; };
+		7C2BECF017009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-OCR-21st-Century.pdf"; sourceTree = "<group>"; };
+		7C2BECF117009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-Edexcel.pdf"; sourceTree = "<group>"; };
+		7C2BECF217009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-AQA.pdf"; sourceTree = "<group>"; };
 		7CDD3A2B16F07AC000114232 /* GCSE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCSE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CDD3A2E16F07AC000114232 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		7CDD3A3016F07AC000114232 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -665,6 +673,10 @@
 		7CDD3A6716F07BAC00114232 /* Files */ = {
 			isa = PBXGroup;
 			children = (
+				7C2BECEF17009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-Gateway.pdf */,
+				7C2BECF017009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf */,
+				7C2BECF117009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf */,
+				7C2BECF217009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf */,
 			);
 			name = Files;
 			sourceTree = "<group>";
@@ -833,6 +845,10 @@
 				7CDD3BB916F1CF0A00114232 /* 75.png in Resources */,
 				7CEA7D1816FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf in Resources */,
 				7CEA7D1916FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf in Resources */,
+				7C2BECF317009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-Gateway.pdf in Resources */,
+				7C2BECF417009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf in Resources */,
+				7C2BECF517009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf in Resources */,
+				7C2BECF617009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

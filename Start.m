@@ -554,8 +554,8 @@
                NSError *error;
               // Report to  analytics
               if (![[GANTracker sharedTracker] trackEvent:@"Successful Login via credentials"
-                                                   action:@"Login to maths successful"
-                                                    label:@"Login to maths successful"
+                                                   action:@"Login to Biology successful"
+                                                    label:@"Login to Biology successful"
                                                     value:79
                                                 withError:&error]) {
                   NSLog(@"error in trackEvent");
@@ -596,8 +596,8 @@
              NSError *error;
              // Report to  analytics
              if (![[GANTracker sharedTracker] trackEvent:@"User login failed"
-                                                  action:@"Login to chemistry failed"
-                                                   label:@"Login to chemistry failed"
+                                                  action:@"Login to Biology failed"
+                                                   label:@"Login to Biology failed"
                                                    value:79
                                                withError:&error]) {
                  NSLog(@"error in trackEvent");
