@@ -11,6 +11,35 @@
 		7C2BECF417009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECF017009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf */; };
 		7C2BECF517009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECF117009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf */; };
 		7C2BECF617009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C2BECF217009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf */; };
+		7C87DE081734F7FE00D5C5AB /* English1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDF81734F7FE00D5C5AB /* English1.png */; };
+		7C87DE091734F7FE00D5C5AB /* English2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDF91734F7FE00D5C5AB /* English2.png */; };
+		7C87DE0A1734F7FE00D5C5AB /* English3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDFA1734F7FE00D5C5AB /* English3.png */; };
+		7C87DE0B1734F7FE00D5C5AB /* English4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDFB1734F7FE00D5C5AB /* English4.png */; };
+		7C87DE0C1734F7FE00D5C5AB /* English5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDFC1734F7FE00D5C5AB /* English5.png */; };
+		7C87DE0D1734F7FE00D5C5AB /* English6.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDFD1734F7FE00D5C5AB /* English6.png */; };
+		7C87DE0E1734F7FE00D5C5AB /* English7.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDFE1734F7FE00D5C5AB /* English7.png */; };
+		7C87DE0F1734F7FE00D5C5AB /* English8.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DDFF1734F7FE00D5C5AB /* English8.png */; };
+		7C87DE101734F7FE00D5C5AB /* Biology1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE001734F7FE00D5C5AB /* Biology1.png */; };
+		7C87DE111734F7FE00D5C5AB /* Biology2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE011734F7FE00D5C5AB /* Biology2.png */; };
+		7C87DE121734F7FE00D5C5AB /* Biology3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE021734F7FE00D5C5AB /* Biology3.png */; };
+		7C87DE131734F7FE00D5C5AB /* Biology4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE031734F7FE00D5C5AB /* Biology4.png */; };
+		7C87DE141734F7FE00D5C5AB /* Biology5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE041734F7FE00D5C5AB /* Biology5.png */; };
+		7C87DE151734F7FE00D5C5AB /* Biology6.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE051734F7FE00D5C5AB /* Biology6.png */; };
+		7C87DE161734F7FE00D5C5AB /* Biology7.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE061734F7FE00D5C5AB /* Biology7.png */; };
+		7C87DE171734F7FE00D5C5AB /* Biology8.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE071734F7FE00D5C5AB /* Biology8.png */; };
+		7C87DE211734FAEC00D5C5AB /* 70-tv.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE201734FAEC00D5C5AB /* 70-tv.png */; };
+		7C87DE231734FB2000D5C5AB /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE221734FB2000D5C5AB /* MainWindow.xib */; };
+		7C87DE251734FB3300D5C5AB /* subscribe.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE241734FB3300D5C5AB /* subscribe.png */; };
+		7C87DE2C1734FB4400D5C5AB /* Maths.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE261734FB4400D5C5AB /* Maths.png */; };
+		7C87DE2D1734FB4400D5C5AB /* English.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE271734FB4400D5C5AB /* English.png */; };
+		7C87DE2E1734FB4400D5C5AB /* Physics.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE281734FB4400D5C5AB /* Physics.png */; };
+		7C87DE2F1734FB4400D5C5AB /* Biology.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE291734FB4400D5C5AB /* Biology.png */; };
+		7C87DE301734FB4400D5C5AB /* Chemistry.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE2A1734FB4400D5C5AB /* Chemistry.png */; };
+		7C87DE311734FB4400D5C5AB /* Testimonial.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C87DE2B1734FB4400D5C5AB /* Testimonial.png */; };
+		7C87DE321734FB7300D5C5AB /* LearnersCloudSamplesVideos.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C87DE191734F82200D5C5AB /* LearnersCloudSamplesVideos.m */; };
+		7C87DE331734FB7300D5C5AB /* Help.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C87DE1B1734F83700D5C5AB /* Help.m */; };
+		7C87DE341734FB7300D5C5AB /* Trailers.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C87DE1D1734FADE00D5C5AB /* Trailers.m */; };
+		7C87DE351734FB7300D5C5AB /* TrailerPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C87DE1F1734FADE00D5C5AB /* TrailerPlayer.m */; };
 		7CDD3A2F16F07AC000114232 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CDD3A2E16F07AC000114232 /* UIKit.framework */; };
 		7CDD3A3116F07AC000114232 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CDD3A3016F07AC000114232 /* Foundation.framework */; };
 		7CDD3A3316F07AC000114232 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CDD3A3216F07AC000114232 /* CoreGraphics.framework */; };
@@ -33,7 +62,6 @@
 		7CDD3ADB16F07EC200114232 /* buy_now.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3ABB16F07EC200114232 /* buy_now.png */; };
 		7CDD3ADC16F07EC200114232 /* buy_now@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3ABC16F07EC200114232 /* buy_now@2x.png */; };
 		7CDD3ADD16F07EC200114232 /* free.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3ABD16F07EC200114232 /* free.png */; };
-		7CDD3ADE16F07EC200114232 /* subscribe.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3ABE16F07EC200114232 /* subscribe.png */; };
 		7CDD3ADF16F07EC200114232 /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3ABF16F07EC200114232 /* Default-Landscape.png */; };
 		7CDD3AE016F07EC200114232 /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3AC016F07EC200114232 /* Default-Portrait.png */; };
 		7CDD3AE116F07EC200114232 /* Default-Portrait@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3AC116F07EC200114232 /* Default-Portrait@2x.png */; };
@@ -52,10 +80,8 @@
 		7CDD3AF616F07EC200114232 /* icon_follow_on_twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3AD616F07EC200114232 /* icon_follow_on_twitter.png */; };
 		7CDD3AF716F07EC200114232 /* icon_share_on_facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3AD716F07EC200114232 /* icon_share_on_facebook.png */; };
 		7CDD3AFA16F07F3600114232 /* ConfigObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A8C16F07DBE00114232 /* ConfigObject.m */; };
-		7CDD3AFB16F07F6C00114232 /* LearnersCloudSamplesVideos.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A8E16F07DDF00114232 /* LearnersCloudSamplesVideos.m */; };
 		7CDD3AFC16F07F6C00114232 /* AdminDashBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A9016F07DDF00114232 /* AdminDashBoard.m */; };
 		7CDD3AFD16F07F6C00114232 /* Report.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A9216F07DDF00114232 /* Report.m */; };
-		7CDD3AFE16F07F6C00114232 /* Help.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A9416F07DDF00114232 /* Help.m */; };
 		7CDD3AFF16F07F6C00114232 /* TermsAndConditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A9616F07DDF00114232 /* TermsAndConditions.m */; };
 		7CDD3B0016F07F6C00114232 /* HowtoUse.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A9816F07DDF00114232 /* HowtoUse.m */; };
 		7CDD3B0116F07F6C00114232 /* PopUpTableviewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3A9A16F07DDF00114232 /* PopUpTableviewViewController.m */; };
@@ -72,7 +98,6 @@
 		7CDD3B0C16F07F6C00114232 /* TransparentToolBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3AB716F07E8500114232 /* TransparentToolBar.m */; };
 		7CDD3B0D16F07F6C00114232 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3AF916F07F0300114232 /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		7CDD3B1016F09CC600114232 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CDD3B0F16F080C200114232 /* AppDelegate.m */; };
-		7CDD3B1116F09F8C00114232 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3AAF16F07E8500114232 /* MainWindow.xib */; };
 		7CDD3B1416F0A2DF00114232 /* website_promo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3B1216F0A2DF00114232 /* website_promo.png */; };
 		7CDD3B1516F0A2DF00114232 /* website_promo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3B1316F0A2DF00114232 /* website_promo@2x.png */; };
 		7CDD3B1716F0A42400114232 /* TV_biology_header.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD3B1616F0A42300114232 /* TV_biology_header.png */; };
@@ -166,6 +191,39 @@
 		7C2BECF017009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-OCR-21st-Century.pdf"; sourceTree = "<group>"; };
 		7C2BECF117009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-Edexcel.pdf"; sourceTree = "<group>"; };
 		7C2BECF217009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "GCSE-Biology-Exam-Board-AQA.pdf"; sourceTree = "<group>"; };
+		7C87DDF81734F7FE00D5C5AB /* English1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English1.png; sourceTree = "<group>"; };
+		7C87DDF91734F7FE00D5C5AB /* English2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English2.png; sourceTree = "<group>"; };
+		7C87DDFA1734F7FE00D5C5AB /* English3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English3.png; sourceTree = "<group>"; };
+		7C87DDFB1734F7FE00D5C5AB /* English4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English4.png; sourceTree = "<group>"; };
+		7C87DDFC1734F7FE00D5C5AB /* English5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English5.png; sourceTree = "<group>"; };
+		7C87DDFD1734F7FE00D5C5AB /* English6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English6.png; sourceTree = "<group>"; };
+		7C87DDFE1734F7FE00D5C5AB /* English7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English7.png; sourceTree = "<group>"; };
+		7C87DDFF1734F7FE00D5C5AB /* English8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English8.png; sourceTree = "<group>"; };
+		7C87DE001734F7FE00D5C5AB /* Biology1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology1.png; sourceTree = "<group>"; };
+		7C87DE011734F7FE00D5C5AB /* Biology2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology2.png; sourceTree = "<group>"; };
+		7C87DE021734F7FE00D5C5AB /* Biology3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology3.png; sourceTree = "<group>"; };
+		7C87DE031734F7FE00D5C5AB /* Biology4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology4.png; sourceTree = "<group>"; };
+		7C87DE041734F7FE00D5C5AB /* Biology5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology5.png; sourceTree = "<group>"; };
+		7C87DE051734F7FE00D5C5AB /* Biology6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology6.png; sourceTree = "<group>"; };
+		7C87DE061734F7FE00D5C5AB /* Biology7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology7.png; sourceTree = "<group>"; };
+		7C87DE071734F7FE00D5C5AB /* Biology8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology8.png; sourceTree = "<group>"; };
+		7C87DE181734F82200D5C5AB /* LearnersCloudSamplesVideos.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LearnersCloudSamplesVideos.h; sourceTree = "<group>"; };
+		7C87DE191734F82200D5C5AB /* LearnersCloudSamplesVideos.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LearnersCloudSamplesVideos.m; sourceTree = "<group>"; };
+		7C87DE1A1734F83700D5C5AB /* Help.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Help.h; sourceTree = "<group>"; };
+		7C87DE1B1734F83700D5C5AB /* Help.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Help.m; sourceTree = "<group>"; };
+		7C87DE1C1734FADE00D5C5AB /* Trailers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Trailers.h; sourceTree = "<group>"; };
+		7C87DE1D1734FADE00D5C5AB /* Trailers.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Trailers.m; sourceTree = "<group>"; };
+		7C87DE1E1734FADE00D5C5AB /* TrailerPlayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrailerPlayer.h; sourceTree = "<group>"; };
+		7C87DE1F1734FADE00D5C5AB /* TrailerPlayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrailerPlayer.m; sourceTree = "<group>"; };
+		7C87DE201734FAEC00D5C5AB /* 70-tv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "70-tv.png"; sourceTree = "<group>"; };
+		7C87DE221734FB2000D5C5AB /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		7C87DE241734FB3300D5C5AB /* subscribe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = subscribe.png; sourceTree = "<group>"; };
+		7C87DE261734FB4400D5C5AB /* Maths.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maths.png; sourceTree = "<group>"; };
+		7C87DE271734FB4400D5C5AB /* English.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English.png; sourceTree = "<group>"; };
+		7C87DE281734FB4400D5C5AB /* Physics.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Physics.png; sourceTree = "<group>"; };
+		7C87DE291734FB4400D5C5AB /* Biology.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Biology.png; sourceTree = "<group>"; };
+		7C87DE2A1734FB4400D5C5AB /* Chemistry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chemistry.png; sourceTree = "<group>"; };
+		7C87DE2B1734FB4400D5C5AB /* Testimonial.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Testimonial.png; sourceTree = "<group>"; };
 		7CDD3A2B16F07AC000114232 /* GCSE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCSE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CDD3A2E16F07AC000114232 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		7CDD3A3016F07AC000114232 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -201,14 +259,10 @@
 		7CDD3A8916F07D3F00114232 /* libGoogleAnalytics.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAnalytics.a; sourceTree = "<group>"; };
 		7CDD3A8B16F07DBE00114232 /* ConfigObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConfigObject.h; sourceTree = "<group>"; };
 		7CDD3A8C16F07DBE00114232 /* ConfigObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConfigObject.m; sourceTree = "<group>"; };
-		7CDD3A8D16F07DDF00114232 /* LearnersCloudSamplesVideos.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LearnersCloudSamplesVideos.h; sourceTree = "<group>"; };
-		7CDD3A8E16F07DDF00114232 /* LearnersCloudSamplesVideos.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LearnersCloudSamplesVideos.m; sourceTree = "<group>"; };
 		7CDD3A8F16F07DDF00114232 /* AdminDashBoard.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AdminDashBoard.h; sourceTree = "<group>"; };
 		7CDD3A9016F07DDF00114232 /* AdminDashBoard.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdminDashBoard.m; sourceTree = "<group>"; };
 		7CDD3A9116F07DDF00114232 /* Report.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Report.h; sourceTree = "<group>"; };
 		7CDD3A9216F07DDF00114232 /* Report.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Report.m; sourceTree = "<group>"; };
-		7CDD3A9316F07DDF00114232 /* Help.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Help.h; sourceTree = "<group>"; };
-		7CDD3A9416F07DDF00114232 /* Help.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Help.m; sourceTree = "<group>"; };
 		7CDD3A9516F07DDF00114232 /* TermsAndConditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TermsAndConditions.h; sourceTree = "<group>"; };
 		7CDD3A9616F07DDF00114232 /* TermsAndConditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TermsAndConditions.m; sourceTree = "<group>"; };
 		7CDD3A9716F07DDF00114232 /* HowtoUse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HowtoUse.h; sourceTree = "<group>"; };
@@ -232,7 +286,6 @@
 		7CDD3AA916F07E4C00114232 /* nav_btn_coverage_deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nav_btn_coverage_deselected.png; sourceTree = "<group>"; };
 		7CDD3AAA16F07E4C00114232 /* btn_videos_deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_videos_deselected.png; sourceTree = "<group>"; };
 		7CDD3AAB16F07E4C00114232 /* 60-signpost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "60-signpost.png"; sourceTree = "<group>"; };
-		7CDD3AAF16F07E8500114232 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		7CDD3AB016F07E8500114232 /* TabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabBar.h; sourceTree = "<group>"; };
 		7CDD3AB116F07E8500114232 /* TabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBar.m; sourceTree = "<group>"; };
 		7CDD3AB216F07E8500114232 /* ActivityIndicator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActivityIndicator.h; sourceTree = "<group>"; };
@@ -245,7 +298,6 @@
 		7CDD3ABB16F07EC200114232 /* buy_now.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buy_now.png; sourceTree = "<group>"; };
 		7CDD3ABC16F07EC200114232 /* buy_now@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "buy_now@2x.png"; sourceTree = "<group>"; };
 		7CDD3ABD16F07EC200114232 /* free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = free.png; sourceTree = "<group>"; };
-		7CDD3ABE16F07EC200114232 /* subscribe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = subscribe.png; sourceTree = "<group>"; };
 		7CDD3ABF16F07EC200114232 /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape.png"; sourceTree = "<group>"; };
 		7CDD3AC016F07EC200114232 /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
 		7CDD3AC116F07EC200114232 /* Default-Portrait@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x.png"; sourceTree = "<group>"; };
@@ -430,7 +482,7 @@
 			children = (
 				7CDD3B0E16F080C200114232 /* AppDelegate.h */,
 				7CDD3B0F16F080C200114232 /* AppDelegate.m */,
-				7CDD3AAF16F07E8500114232 /* MainWindow.xib */,
+				7C87DE221734FB2000D5C5AB /* MainWindow.xib */,
 				7CDD3AB016F07E8500114232 /* TabBar.h */,
 				7CDD3AB116F07E8500114232 /* TabBar.m */,
 				7CDD3AB216F07E8500114232 /* ActivityIndicator.h */,
@@ -465,11 +517,11 @@
 				7CDD3ABB16F07EC200114232 /* buy_now.png */,
 				7CDD3ABC16F07EC200114232 /* buy_now@2x.png */,
 				7CDD3ABD16F07EC200114232 /* free.png */,
-				7CDD3ABE16F07EC200114232 /* subscribe.png */,
 				7CDD3ABF16F07EC200114232 /* Default-Landscape.png */,
 				7CDD3AC016F07EC200114232 /* Default-Portrait.png */,
 				7CDD3AC116F07EC200114232 /* Default-Portrait@2x.png */,
 				7CDD3AC216F07EC200114232 /* Default-Landscape@2x.png */,
+				7C87DE241734FB3300D5C5AB /* subscribe.png */,
 				7CDD3AC316F07EC200114232 /* Background.png */,
 				7CDD3AC416F07EC200114232 /* Background@2x.png */,
 				7CDD3AC516F07EC200114232 /* header_bar.png */,
@@ -490,6 +542,12 @@
 				7CDD3AD516F07EC200114232 /* icon_share_on_twitter.png */,
 				7CDD3AD616F07EC200114232 /* icon_follow_on_twitter.png */,
 				7CDD3AD716F07EC200114232 /* icon_share_on_facebook.png */,
+				7C87DE261734FB4400D5C5AB /* Maths.png */,
+				7C87DE271734FB4400D5C5AB /* English.png */,
+				7C87DE281734FB4400D5C5AB /* Physics.png */,
+				7C87DE291734FB4400D5C5AB /* Biology.png */,
+				7C87DE2A1734FB4400D5C5AB /* Chemistry.png */,
+				7C87DE2B1734FB4400D5C5AB /* Testimonial.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -500,6 +558,7 @@
 				7CDD3AA916F07E4C00114232 /* nav_btn_coverage_deselected.png */,
 				7CDD3AAA16F07E4C00114232 /* btn_videos_deselected.png */,
 				7CDD3AAB16F07E4C00114232 /* 60-signpost.png */,
+				7C87DE201734FAEC00D5C5AB /* 70-tv.png */,
 			);
 			name = Icons;
 			sourceTree = "<group>";
@@ -517,6 +576,10 @@
 				7CDD3AA616F07E3600114232 /* Buy.m */,
 				7CDD3AA716F07E3600114232 /* CustomStoreObserver.h */,
 				7CDD3AA816F07E3600114232 /* CustomStoreObserver.m */,
+				7C87DE1C1734FADE00D5C5AB /* Trailers.h */,
+				7C87DE1D1734FADE00D5C5AB /* Trailers.m */,
+				7C87DE1E1734FADE00D5C5AB /* TrailerPlayer.h */,
+				7C87DE1F1734FADE00D5C5AB /* TrailerPlayer.m */,
 			);
 			name = ClientSideClasses;
 			sourceTree = "<group>";
@@ -524,14 +587,14 @@
 		7CDD3A6216F07B6000114232 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				7CDD3A8D16F07DDF00114232 /* LearnersCloudSamplesVideos.h */,
-				7CDD3A8E16F07DDF00114232 /* LearnersCloudSamplesVideos.m */,
+				7C87DE181734F82200D5C5AB /* LearnersCloudSamplesVideos.h */,
+				7C87DE191734F82200D5C5AB /* LearnersCloudSamplesVideos.m */,
 				7CDD3A8F16F07DDF00114232 /* AdminDashBoard.h */,
 				7CDD3A9016F07DDF00114232 /* AdminDashBoard.m */,
 				7CDD3A9116F07DDF00114232 /* Report.h */,
 				7CDD3A9216F07DDF00114232 /* Report.m */,
-				7CDD3A9316F07DDF00114232 /* Help.h */,
-				7CDD3A9416F07DDF00114232 /* Help.m */,
+				7C87DE1A1734F83700D5C5AB /* Help.h */,
+				7C87DE1B1734F83700D5C5AB /* Help.m */,
 				7CDD3A9516F07DDF00114232 /* TermsAndConditions.h */,
 				7CDD3A9616F07DDF00114232 /* TermsAndConditions.m */,
 				7CDD3A9716F07DDF00114232 /* HowtoUse.h */,
@@ -633,6 +696,22 @@
 				7CDD3BAF16F1CEFF00114232 /* 73.png */,
 				7CDD3BB016F1CF0200114232 /* 74.png */,
 				7CDD3BB116F1CF0500114232 /* 75.png */,
+				7C87DDF81734F7FE00D5C5AB /* English1.png */,
+				7C87DDF91734F7FE00D5C5AB /* English2.png */,
+				7C87DDFA1734F7FE00D5C5AB /* English3.png */,
+				7C87DDFB1734F7FE00D5C5AB /* English4.png */,
+				7C87DDFC1734F7FE00D5C5AB /* English5.png */,
+				7C87DDFD1734F7FE00D5C5AB /* English6.png */,
+				7C87DDFE1734F7FE00D5C5AB /* English7.png */,
+				7C87DDFF1734F7FE00D5C5AB /* English8.png */,
+				7C87DE001734F7FE00D5C5AB /* Biology1.png */,
+				7C87DE011734F7FE00D5C5AB /* Biology2.png */,
+				7C87DE021734F7FE00D5C5AB /* Biology3.png */,
+				7C87DE031734F7FE00D5C5AB /* Biology4.png */,
+				7C87DE041734F7FE00D5C5AB /* Biology5.png */,
+				7C87DE051734F7FE00D5C5AB /* Biology6.png */,
+				7C87DE061734F7FE00D5C5AB /* Biology7.png */,
+				7C87DE071734F7FE00D5C5AB /* Biology8.png */,
 				7CEA7D1616FC7C0200DB5C0B /* LearnersCloudTermsonapps.pdf */,
 				7CEA7D1716FC7C0200DB5C0B /* HowtouseVideoStreamer.pdf */,
 			);
@@ -740,7 +819,6 @@
 				7CDD3ADB16F07EC200114232 /* buy_now.png in Resources */,
 				7CDD3ADC16F07EC200114232 /* buy_now@2x.png in Resources */,
 				7CDD3ADD16F07EC200114232 /* free.png in Resources */,
-				7CDD3ADE16F07EC200114232 /* subscribe.png in Resources */,
 				7CDD3ADF16F07EC200114232 /* Default-Landscape.png in Resources */,
 				7CDD3AE016F07EC200114232 /* Default-Portrait.png in Resources */,
 				7CDD3AE116F07EC200114232 /* Default-Portrait@2x.png in Resources */,
@@ -758,7 +836,6 @@
 				7CDD3AF516F07EC200114232 /* icon_share_on_twitter.png in Resources */,
 				7CDD3AF616F07EC200114232 /* icon_follow_on_twitter.png in Resources */,
 				7CDD3AF716F07EC200114232 /* icon_share_on_facebook.png in Resources */,
-				7CDD3B1116F09F8C00114232 /* MainWindow.xib in Resources */,
 				7CDD3B1416F0A2DF00114232 /* website_promo.png in Resources */,
 				7CDD3B1516F0A2DF00114232 /* website_promo@2x.png in Resources */,
 				7CDD3B1716F0A42400114232 /* TV_biology_header.png in Resources */,
@@ -849,6 +926,31 @@
 				7C2BECF417009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-OCR-21st-Century.pdf in Resources */,
 				7C2BECF517009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-Edexcel.pdf in Resources */,
 				7C2BECF617009C5E00D3CEA3 /* GCSE-Biology-Exam-Board-AQA.pdf in Resources */,
+				7C87DE081734F7FE00D5C5AB /* English1.png in Resources */,
+				7C87DE091734F7FE00D5C5AB /* English2.png in Resources */,
+				7C87DE0A1734F7FE00D5C5AB /* English3.png in Resources */,
+				7C87DE0B1734F7FE00D5C5AB /* English4.png in Resources */,
+				7C87DE0C1734F7FE00D5C5AB /* English5.png in Resources */,
+				7C87DE0D1734F7FE00D5C5AB /* English6.png in Resources */,
+				7C87DE0E1734F7FE00D5C5AB /* English7.png in Resources */,
+				7C87DE0F1734F7FE00D5C5AB /* English8.png in Resources */,
+				7C87DE101734F7FE00D5C5AB /* Biology1.png in Resources */,
+				7C87DE111734F7FE00D5C5AB /* Biology2.png in Resources */,
+				7C87DE121734F7FE00D5C5AB /* Biology3.png in Resources */,
+				7C87DE131734F7FE00D5C5AB /* Biology4.png in Resources */,
+				7C87DE141734F7FE00D5C5AB /* Biology5.png in Resources */,
+				7C87DE151734F7FE00D5C5AB /* Biology6.png in Resources */,
+				7C87DE161734F7FE00D5C5AB /* Biology7.png in Resources */,
+				7C87DE171734F7FE00D5C5AB /* Biology8.png in Resources */,
+				7C87DE211734FAEC00D5C5AB /* 70-tv.png in Resources */,
+				7C87DE231734FB2000D5C5AB /* MainWindow.xib in Resources */,
+				7C87DE251734FB3300D5C5AB /* subscribe.png in Resources */,
+				7C87DE2C1734FB4400D5C5AB /* Maths.png in Resources */,
+				7C87DE2D1734FB4400D5C5AB /* English.png in Resources */,
+				7C87DE2E1734FB4400D5C5AB /* Physics.png in Resources */,
+				7C87DE2F1734FB4400D5C5AB /* Biology.png in Resources */,
+				7C87DE301734FB4400D5C5AB /* Chemistry.png in Resources */,
+				7C87DE311734FB4400D5C5AB /* Testimonial.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -859,11 +961,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C87DE321734FB7300D5C5AB /* LearnersCloudSamplesVideos.m in Sources */,
+				7C87DE331734FB7300D5C5AB /* Help.m in Sources */,
+				7C87DE341734FB7300D5C5AB /* Trailers.m in Sources */,
+				7C87DE351734FB7300D5C5AB /* TrailerPlayer.m in Sources */,
 				7CDD3B1016F09CC600114232 /* AppDelegate.m in Sources */,
-				7CDD3AFB16F07F6C00114232 /* LearnersCloudSamplesVideos.m in Sources */,
 				7CDD3AFC16F07F6C00114232 /* AdminDashBoard.m in Sources */,
 				7CDD3AFD16F07F6C00114232 /* Report.m in Sources */,
-				7CDD3AFE16F07F6C00114232 /* Help.m in Sources */,
 				7CDD3AFF16F07F6C00114232 /* TermsAndConditions.m in Sources */,
 				7CDD3B0016F07F6C00114232 /* HowtoUse.m in Sources */,
 				7CDD3B0116F07F6C00114232 /* PopUpTableviewViewController.m in Sources */,
