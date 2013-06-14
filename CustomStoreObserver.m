@@ -171,7 +171,13 @@
     // Only 1 month to 1 Year subscription supported
     
     
-    if ([[theProductID lowercaseString] isEqualToString:@"biologyipad1month"] ){
+    if ([[theProductID lowercaseString] isEqualToString:@"biology1week"] ){
+        
+        return @"7";
+        
+    }
+
+  else  if ([[theProductID lowercaseString] isEqualToString:@"biologyipad1month"] ){
         
         return @"31";
         
