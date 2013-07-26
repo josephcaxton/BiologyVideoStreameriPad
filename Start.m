@@ -244,6 +244,14 @@
     UsernameText.enablesReturnKeyAutomatically = YES;
     [UsernameText setReturnKeyType:UIReturnKeyDone];
     [UsernameText setDelegate:self];
+        // Do we have stored UseName if so let add to box
+        NSUserDefaults *prefs = [NSUserDefaults standardUserDefaults];
+        NSString *StoredUserName = [prefs stringForKey:@"LCUserName"];
+        if ([StoredUserName length] > 1) {
+            UsernameText.text = StoredUserName;
+        }
+        
+
     [alertView addSubview:UsernameText];
     
     // Adds a password Field
