@@ -555,6 +555,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = BiologyVideoStreameriPad/GCSE.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Joseph caxton (99S98QLWW3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Joseph caxton (99S98QLWW3)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BiologyVideoStreameriPad/BiologyVideoStreameriPad-Prefix.pch";
 				INFOPLIST_FILE = "BiologyVideoStreameriPad/BiologyVideoStreameriPad-Info.plist";
@@ -564,7 +565,7 @@
 					"\"$(SRCROOT)\"",
 				);
 				PRODUCT_NAME = GCSE;
-				PROVISIONING_PROFILE = "3CFD1A1E-5427-4622-8145-841585CB9AD6";
+				PROVISIONING_PROFILE = "FD044D8C-213D-458E-8A31-3DA2C80799F1";
 				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
 			};
@@ -587,8 +588,8 @@
 					"\"$(SRCROOT)\"",
 				);
 				PRODUCT_NAME = GCSE;
-				PROVISIONING_PROFILE = "606042C8-3241-4384-891D-878ADAB21C85";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "606042C8-3241-4384-891D-878ADAB21C85";
+				PROVISIONING_PROFILE = "79D1A327-C831-499C-935A-1C209012FD3F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "79D1A327-C831-499C-935A-1C209012FD3F";
 				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
 			};
